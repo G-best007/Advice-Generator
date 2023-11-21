@@ -98,6 +98,10 @@ body {
   cursor: pointer;
 }
 
+.btn:focus{
+    outline: hidden !important;
+}
+
 @media (max-width: 767px) {
   .desktopImage {
     display: none;
