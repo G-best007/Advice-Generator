@@ -25,7 +25,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click to view project](https://g-best007.github.io/Advice-Generator/)
 
 ## My process
 
